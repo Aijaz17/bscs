@@ -1,0 +1,61 @@
+#one
+{
+    width: 200px;
+    height: 200px;
+    background-color: seagreen;
+}
+#two
+{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+#three
+{
+    width: 200px;
+    height: 200px;
+    background-color: mediumvioletred;
+}
+
+div .paragraph
+{
+    color: midnightblue;
+    font-size: 20px;
+    background-color: chocolate;
+
+
+
+
+}
+
+
+#heading
+{
+    /* margin-top: 300px;
+    margin-left: 100px; */
+
+    background-color: black;
+    color: white;
+    display: inline;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+span
+{
+    background-color: black;
+    color: white;
+    display: block;
+}
+
+#btn
+{
+    padding: 10px 20px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    font-size: 16px;
+    color: wheat;
+
+}
